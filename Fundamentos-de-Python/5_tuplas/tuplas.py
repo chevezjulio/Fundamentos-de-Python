@@ -1,5 +1,3 @@
-tupla = ("Rodrigo", "Juan")
-
 videojuegos = []
 
 #Nombre, Genero, Año
