@@ -8,7 +8,7 @@ Este repositorio contiene ejercicios desarrollados para aprender fundamentos de
 Python.
 
 ## Lista de reproducción
-Enlace:
+Enlace: https://youtube.com/playlist?list=PLQlYXsT0HiKTIA-Axg_nXf6XV2YY4yWJQ&si=B5FV17XKbIHCNosG
 
 ## Contenidos trabajados
 1. Introducción a Python
