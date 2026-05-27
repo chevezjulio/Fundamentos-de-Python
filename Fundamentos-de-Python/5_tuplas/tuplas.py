@@ -1,8 +1,8 @@
 videojuegos = []
 
 #Nombre, Genero, Año
-videojuegos.append(("FC 26", "FUTBOL", 1993))
-videojuegos.append(("FORZA HORIZON 5", "ACCION", 2012))
+videojuegos.append(("Free fire", "accion", 2017))
+videojuegos.append(("futbol club movil", "ACCION", 2012))
 
 
 print(videojuegos)
