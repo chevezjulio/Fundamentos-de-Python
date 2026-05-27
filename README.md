@@ -1,6 +1,6 @@
 # Fundamentos de Python
 Nombre del estudiante: Julio Alexander Chevez Mondragon
-Grado y sección: 
+Grado y sección: 2° de bachuillerato "A"
 Asignatura: Ciencias de la Computación
 Docente: Prof. Fernando Avismael Argueta Arévalo
 ## Descripción
