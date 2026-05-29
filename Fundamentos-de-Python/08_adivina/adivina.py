@@ -16,9 +16,9 @@ def imprimir_resultado(numero, prediccion):
     if es_par and prediccion ==1:
         print("GANASTES! NUMERO DE LOS DADOS:", numero)
     elif not es_par and prediccion == 2:
-        print("GANASTES!NUMERO DE LOS DADOS:", numero)
+        print("GANASTES! NUMERO DE LOS DADOS:", numero)
     else:
-        print("PERDISTES :(! NUMERO DE LOS DADOS:", numero)
+        print("PERDISTES! NUMERO DE LOS DADOS:", numero)
     
 
 while True:

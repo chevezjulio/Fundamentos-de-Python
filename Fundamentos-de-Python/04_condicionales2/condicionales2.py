@@ -3,9 +3,9 @@ nombre = input()
 print("Escribe tu edad")
 edad = int(input())
 
-if nombre == "Leo" and edad > 20:
-      print("Saludos Leo, Eres un adulto")
-elif nombre == "Leo" and edad <= 20:
-    print("Saludos Leo, Eres un joven")
+if nombre == "Julio" and edad > 20:
+      print("Saludos Julio, Eres un adulto")
+elif nombre == "Julio" and edad <= 20:
+    print("Saludos Julio, Eres un joven")
 else:
      print("saludos")
