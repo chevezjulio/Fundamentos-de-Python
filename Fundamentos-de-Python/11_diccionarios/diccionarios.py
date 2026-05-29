@@ -2,7 +2,7 @@
 #Arreglos asociativos
 
 persona = {"nombre": "Rodrigo",
-           "edad": 800,
+           "edad": 80,
            "apellido": "Montemayor"}
 
 persona["apodo"] = "Ringa Tech"
